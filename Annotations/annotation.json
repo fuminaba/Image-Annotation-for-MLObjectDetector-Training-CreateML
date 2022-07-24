@@ -1,0 +1,107 @@
+[
+    {
+        "imagefilename": "CellCluster1.tif",
+        "annotation": [
+            {
+                "coordinates": {
+                    "y": 55,
+                    "x": 233,
+                    "height": 47,
+                    "width": 34
+                },
+                "label": "Nucleus"
+            },
+            {
+                "coordinates": {
+                    "y": 60,
+                    "x": 186,
+                    "height": 44,
+                    "width": 34
+                },
+                "label": "Nucleus"
+            },
+            {
+                "coordinates": {
+                    "y": 105,
+                    "x": 205,
+                    "height": 36,
+                    "width": 49
+                },
+                "label": "Nucleus"
+            },
+            {
+                "coordinates": {
+                    "y": 74,
+                    "x": 121,
+                    "height": 42,
+                    "width": 40
+                },
+                "label": "Nucleus"
+            },
+            {
+                "coordinates": {
+                    "y": 150,
+                    "x": 163,
+                    "height": 44,
+                    "width": 43
+                },
+                "label": "Nucleus"
+            }
+        ]
+    },
+    {
+        "imagefilename": "CellCluster2.tif",
+        "annotation": [
+            {
+                "coordinates": {
+                    "y": 143,
+                    "x": 211,
+                    "height": 46,
+                    "width": 40
+                },
+                "label": "Nucleus"
+            },
+            {
+                "coordinates": {
+                    "y": 158,
+                    "x": 136,
+                    "height": 38,
+                    "width": 49
+                },
+                "label": "Nucleus"
+            }
+        ]
+    },
+    {
+        "imagefilename": "CellCluster3.tif",
+        "annotation": [
+            {
+                "coordinates": {
+                    "y": 126,
+                    "x": 187,
+                    "height": 44,
+                    "width": 39
+                },
+                "label": "Nucleus"
+            },
+            {
+                "coordinates": {
+                    "y": 127,
+                    "x": 142,
+                    "height": 52,
+                    "width": 35
+                },
+                "label": "Nucleus"
+            },
+            {
+                "coordinates": {
+                    "y": 174,
+                    "x": 201,
+                    "height": 43,
+                    "width": 37
+                },
+                "label": "Nucleus"
+            }
+        ]
+    }
+]
